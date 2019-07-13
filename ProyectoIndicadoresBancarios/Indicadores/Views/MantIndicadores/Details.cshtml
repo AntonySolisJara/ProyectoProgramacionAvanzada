@@ -1,0 +1,50 @@
+﻿@model Indicadores.Models.Indicador
+
+@{
+    ViewBag.Title = "Detalles";
+}
+
+<h2>Detalles del Indicador</h2>
+
+<div>
+    <h4>Indicador</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CtaCatalogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CtaCatalogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiglasEst)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiglasEst)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiglasPer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiglasPer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiglasUni)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiglasUni)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Modificar", "Edit", new { id = Model.IdIndicador }) |
+    @Html.ActionLink("Regresar", "Index")
+</p>

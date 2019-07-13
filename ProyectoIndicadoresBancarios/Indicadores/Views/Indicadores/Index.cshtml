@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Indicadores.Models.Indicador>
+
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/Mantenimientos/FiltroMultiple.js"></script>
+<link href="~/Content/Mantenimientos/StyleFiltros.css" rel="stylesheet" />
+
+
+<h2>Indicadores Obtenidos</h2>
+<img src="~/fonts/Imagenes/sensible.png" />
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar...">
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdIndicador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CtaCatalogo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SiglasEst)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SiglasPer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SiglasUni)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="myTables">
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdIndicador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CtaCatalogo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiglasEst)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiglasPer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiglasUni)
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+
+<div class="form-group">
+    <div class="col-md-offset-2 col-md-10">
+        @Html.ActionLink("Siguiente", "Create", "IndicadorPosvalor")
+    </div>
+</div>
+
+<br />

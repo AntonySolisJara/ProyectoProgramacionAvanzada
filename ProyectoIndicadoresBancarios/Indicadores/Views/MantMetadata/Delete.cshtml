@@ -1,0 +1,48 @@
+﻿@model Indicadores.Models.Metadata
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Eliminar metadata</h2>
+
+<h3>Esta seguro que desea eliminar la Metadata?</h3>
+<div>
+    <h4>Metadata</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdMetadata)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdMetadata)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomMetadata)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomMetadata)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescMetadata)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescMetadata)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> |
+            @Html.ActionLink("Regresar", "Index")
+        </div>
+    }
+</div>

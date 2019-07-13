@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Mantenimiento";
+}
+<link href="~/Content/Mantenimientos/StyleMenu.css" rel="stylesheet" />
+
+<h1>Mantenimiento de indicadores</h1>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+        <li>@Html.ActionLink("Indicadores", "Index", "MantIndicadores")</li>
+        <li>@Html.ActionLink("Unidad de Medida", "Index", "MantUnidadDeMedida")</li>
+        <li>@Html.ActionLink("Posvalores", "Index", "MantPosvalores")</li>
+        <li>@Html.ActionLink("Metadata", "Index", "MantMetadata")</li>
+    </ul> 
+</div>
+<div>
+    <img id="img" src="~/fonts/Imagenes/manteniMIENTO.png" />
+</div>

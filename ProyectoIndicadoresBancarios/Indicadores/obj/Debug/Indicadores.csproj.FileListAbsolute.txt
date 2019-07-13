@@ -1,0 +1,1262 @@
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\Indicadores\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\Indicadores\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\Indicadores\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\Indicadores\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V4.9\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V5\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\EPPlus.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\EPPlus.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.8\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\EPPlus.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\EPPlus.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V6.9\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\EPPlus.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\EPPlus.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.3\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\EPPlus.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\EPPlus.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V7.9\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\EPPlus.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\EPPlus.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V8.5\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\EPPlus.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\EPPlus.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V9\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\EPPlus.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\EPPlus.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Desktop\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.pdb
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\ApplicationInsights.config
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Indicadores.dll.config
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Indicadores.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Indicadores.pdb
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csc.exe
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csc.exe.config
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csc.rsp
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csi.exe
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csi.exe.config
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\csi.rsp
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.AppContext.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Console.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.Compression.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Claims.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.ValueTuple.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\vbc.exe
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\vbc.exe.config
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\vbc.rsp
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\VBCSCompiler.exe
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Antlr3.Runtime.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\EntityFramework.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\EntityFramework.SqlServer.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\EPPlus.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.Web.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Newtonsoft.Json.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Helpers.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Mvc.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Optimization.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Razor.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.Razor.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\WebGrease.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\EntityFramework.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\EntityFramework.SqlServer.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\EPPlus.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Helpers.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Mvc.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Optimization.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.Razor.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Web.WebPages.Razor.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Newtonsoft.Json.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Antlr3.Runtime.pdb
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.AI.Web.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.Helpers.resources.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.Mvc.resources.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.Optimization.resources.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.Razor.resources.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.WebPages.resources.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.csprojAssemblyReference.cache
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.csproj.CopyComplete
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.dll
+C:\Users\anton\Documents\UAM-Ing Sistemas\Ing en Sistemas\Programación Avanzada\Proyecto\ProyectoIndicadoresBancarios V10\Indicadores\obj\Debug\Indicadores.pdb

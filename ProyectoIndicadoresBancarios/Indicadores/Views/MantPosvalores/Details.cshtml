@@ -1,0 +1,50 @@
+﻿@model Indicadores.Models.Posvalor
+
+@{
+    ViewBag.Title = "Detalles";
+}
+
+<h2>Detalles del Posvalor</h2>
+
+<div>
+    <h4>Posvalor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdPosvalor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdPosvalor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiglasPos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiglasPos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomPosvalor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomPosvalor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescPosvalor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescPosvalor)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Modificar", "Edit", new { id = Model.IdPosvalor }) |
+    @Html.ActionLink("Regresar", "Index")
+</p>

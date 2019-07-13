@@ -1,0 +1,56 @@
+﻿@model Indicadores.Models.Indicador
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Eliminar Indicador</h2>
+
+<h3>Esta seguro/a que desea eliminar este Indicador?</h3>
+<div>
+    <h4>Indicador</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CtaCatalogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CtaCatalogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiglasEst)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiglasEst)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiglasPer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiglasPer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiglasUni)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiglasUni)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> |
+            @Html.ActionLink("Regresar", "Index")
+        </div>
+    }
+</div>

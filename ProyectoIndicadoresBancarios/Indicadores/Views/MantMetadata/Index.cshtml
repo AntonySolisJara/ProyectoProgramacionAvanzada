@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Indicadores.Models.Metadata>
+
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/Mantenimientos/FiltroMultiple.js"></script>
+<script src="~/Scripts/Mantenimientos/TabletoExcel.js"></script>
+<script src="~/Scripts/Mantenimientos/VistaUnidadMedida.js"></script>
+<link href="~/Content/Mantenimientos/StyleFiltros.css" rel="stylesheet" />
+<link href="~/Content/Mantenimientos/StyleVistaMantUnidadMedida.css" rel="stylesheet" />
+
+<h1>Mantenimiento de indicadores</h1>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+        <li>@Html.ActionLink("Indicadores", "Index", "MantIndicadores")</li>
+        <li>@Html.ActionLink("Unidad de Medida", "Index", "MantUnidadDeMedida")</li>
+        <li>@Html.ActionLink("Posvalores", "Index", "MantPosvalores")</li>
+        <li>@Html.ActionLink("Metadata", "Index", "MantMetadata")</li>
+    </ul>
+</div>
+
+<h2>Reporte de Metadatas</h2>
+<form method="post" enctype="multipart/form-data" id="form">
+    <div>
+        <input title="Seleccionar archivo" type="file" name="file" id="excelSelect" />
+        <button title="Subir archivo" type="submit" id="excelUp">Subir</button>
+    </div>
+</form>
+<p>
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar...">
+    <a href="MantMetadata/Create">
+        <img title="Agregar nuevo" src="~/fonts/Imagenes/anadir.png" alt="Agregar" />
+    </a>
+    <a>
+        <img title="Descargar archivo" src="~/fonts/Imagenes/excel.png" id="excelDown" onclick="tableToExcel('myTable', 'Hoja1')" value="Export to Excel" alt="Descargar" />
+    </a>
+</p>
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdMetadata)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SiglasMet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomMetadata)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DescMetadata)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="myTables">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdMetadata)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SiglasMet)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NomMetadata)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DescMetadata)
+                </td>
+                <td>
+                    @Html.ActionLink("Modificar", "Edit", new { id = item.SiglasMet }) |
+                    @Html.ActionLink("Ver detalles", "Details", new { id = item.SiglasMet }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.SiglasMet })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

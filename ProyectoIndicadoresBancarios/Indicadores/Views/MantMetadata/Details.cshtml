@@ -1,0 +1,42 @@
+﻿@model Indicadores.Models.Metadata
+
+@{
+    ViewBag.Title = "Detalles";
+}
+
+<h2>Detalles de la Metadata</h2>
+
+<div>
+    <h4>Metadata</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdMetadata)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdMetadata)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomMetadata)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomMetadata)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescMetadata)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescMetadata)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Modificar", "Edit", new { id = Model.SiglasMet }) |
+    @Html.ActionLink("Regresar", "Index")
+</p>

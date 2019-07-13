@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Indicadores.Models.IndicadorPosvalor>
+
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/Mantenimientos/FiltroMultiple.js"></script>
+<link href="~/Content/Mantenimientos/StyleFiltros.css" rel="stylesheet" />
+
+
+<h2>Posvalores Obtenidos</h2>
+<img src="~/fonts/Imagenes/dinero.png" />
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar...">
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdIndPosvalor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdIndicador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdIndPosvalor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Orden)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="myTables">
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdIndPosvalor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdIndicador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdPosvalor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Orden)
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+
+<div class="form-group">
+    <div class="col-md-offset-2 col-md-10">
+        @Html.ActionLink("Crear nueva cuenta", "Create", "CuentaCatalogo") | 
+        @Html.ActionLink("Salir", "Index", "Home")
+    </div>
+</div>
+
+<br />

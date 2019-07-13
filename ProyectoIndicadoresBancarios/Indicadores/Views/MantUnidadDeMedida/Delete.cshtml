@@ -1,0 +1,45 @@
+﻿@model Indicadores.Models.UnidadMedida
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Eliminar Unidad de Medida</h2>
+
+<h3>Esta seguro/a que desea eliminar esta Unidad de Medida?</h3>
+<div>
+    <h4>Unidad de Medida a eliminar</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SiglasUni)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiglasUni)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescUnidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescUnidad)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> |
+            @Html.ActionLink("Regresar", "Index")
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
